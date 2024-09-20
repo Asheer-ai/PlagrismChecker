@@ -54,3 +54,47 @@ PlagiarismChecker/
 ![App Screenshot](https://github.com/Asheer-ai/PlagrismChecker/blob/18ba1a86c2fd877fc41adeaedf5dbc9a12561c11/Screenshot%202024-09-21%20004939.png)
 
 ![App Screenshot](https://github.com/Asheer-ai/PlagrismChecker/blob/cf062b7f3e44cb2f19ee2a82aed8c2b7c55de4f0/Screenshot%202024-09-21%20010515.png)
+
+## Setup Instructions
+
+### Backend (Flask)
+
+### Clone the repository:
+
+```bash
+  git clone https://github.com/Asheer-ai/PlagrismChecker
+```
+### Navigate to the backend directory:
+
+```bash
+  cd Backend
+```
+
+### Install dependencies:
+
+```bash
+ pip install -r requirements.txt
+```
+
+### Run the Flask app:
+```bash
+python app.py
+```
+
+### Frontend (React)
+
+### Navigate to the frontend directory:
+
+```bash
+  cd ../Frontend
+```
+### Install frontend dependencies:
+```bash
+  npm install
+
+```
+### Run the React app:
+```bash
+  npm run dev
+
+```
