@@ -45,3 +45,12 @@ PlagiarismChecker/
 │
 └── README.md                   # Project documentation
 ```
+## Screenshots
+
+![App Screenshot](https://github.com/Asheer-ai/PlagrismChecker/blob/5055aa1f593535cef815adfab4c3148193499d61/Screenshot%202024-09-21%20010623.png)
+
+![App Screenshot](https://github.com/Asheer-ai/PlagrismChecker/blob/f905e79ae7ff0c2aa0c261243295bc7905ee82dd/Screenshot%202024-09-21%20010534.png)
+
+![App Screenshot](https://github.com/Asheer-ai/PlagrismChecker/blob/18ba1a86c2fd877fc41adeaedf5dbc9a12561c11/Screenshot%202024-09-21%20004939.png)
+
+![App Screenshot](https://github.com/Asheer-ai/PlagrismChecker/blob/cf062b7f3e44cb2f19ee2a82aed8c2b7c55de4f0/Screenshot%202024-09-21%20010515.png)
